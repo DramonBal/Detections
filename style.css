@@ -1,5 +1,5 @@
 .header-container {
-    display: flex;       /* Use flexbox for easy alignment */
+    display: left;       /* Use flexbox for easy alignment */
     align-items: center; /* Vertically center the items within the container */
     gap: 15px;           /* Add some space between the logo and the title */
     padding-left: 25%;       /* Optional: Add some spacing around the container */
