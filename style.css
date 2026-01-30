@@ -24,7 +24,7 @@
   background: -o-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background: -ms-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
-  animation: gradient-animation 18s ease infinite;
+  animation: gradient-animation 15s ease infinite;
 }
 
 h1 {
