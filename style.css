@@ -5,12 +5,18 @@
     padding-left: 25%;       /* Optional: Add some spacing around the container */
     background: url(WaGa.png) center center fixed;
     background-size: cover;
-    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background: -webkit-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background: -moz-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background: -o-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background: -ms-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
     
 }
 
 .gradient-background {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background: -moz-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background: -o-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background: -ms-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
