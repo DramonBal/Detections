@@ -8,7 +8,7 @@
     background: -moz-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
     background: -o-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
     background: -ms-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172); 
-    background-size: 10% 10%;
+    background-size: 150% 150%;
     animation: gradient-animation 15s ease infinite;
 }
 .registered-mark {
