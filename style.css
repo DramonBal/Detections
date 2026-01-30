@@ -8,8 +8,12 @@
     background: -webkit-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
     background: -moz-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
     background: -o-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
-    background: -ms-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
-    
+    background: -ms-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);    
+}
+.registered-mark {
+    font--size: 0.6em;
+    vertical-align: super;
+    line-height: 1;
 }
 
 .gradient-background {
