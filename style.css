@@ -2,7 +2,7 @@
     display: flex;       /* Use flexbox for easy alignment */
     align-items: center; /* Vertically center the items within the container */
     gap: 15px;           /* Add some space between the logo and the title */
-    padding-left: 25%;       /* Optional: Add some spacing around the container */
+    padding-left: 10%;       /* Optional: Add some spacing around the container */
     background: url(WaGa.png);
     background: -webkit-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
     background: -moz-linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
