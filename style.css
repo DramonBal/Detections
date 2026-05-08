@@ -79,11 +79,6 @@ p {
     font-weight: bold;
 }
 
-.container {
-  display: flex;
-  justify-content: center; /* Horizontal centering */
-  align-items: center;     /* Vertical centering (requires a height) */
-  height: 100vh;           /* Optional: makes container full screen height */
-}
+
 
 
