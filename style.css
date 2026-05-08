@@ -12,13 +12,6 @@
     animation: gradient-animation 15s ease infinite;
 }
 
-.container {
-  display: flex;
-  justify-content: center; /* Horizontal centering */
-  align-items: center;     /* Vertical centering (requires a height) */
-  height: 100vh;           /* Optional: makes container full screen height */
-}
-
 .registered-mark {
     font--size: 0.6em;
     vertical-align: super;
